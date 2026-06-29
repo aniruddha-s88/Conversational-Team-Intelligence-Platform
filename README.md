@@ -1,4 +1,4 @@
-# WhatsApp Intel — Business Intelligence for Small Teams
+# Conversational Team Intelligence Platform
 
 Turn your team's WhatsApp updates into queryable business intelligence using Groq AI (LLaMA 3 70B).
 
